@@ -1,0 +1,2 @@
+# carte-de-voeux
+ce projet est un TP pour verifier mes connaissances en conceptions d'interfaces en Android. Il est question de faire une interface assez simple souhaitant joyeux anniverssaire à une personne
